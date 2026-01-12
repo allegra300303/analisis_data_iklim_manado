@@ -3,9 +3,8 @@
 ## Deskripsi Proyek
 Proyek ini merupakan tugas mata kuliah Big Data yang bertujuan untuk menganalisis data iklim Kota Manado pada periode 2000–2009. Analisis dilakukan untuk memahami pola, tren, dan kestabilan parameter iklim menggunakan pendekatan 9 Tahap Big Data serta analisis statistik dan visualisasi data.
 
-Tujuan
-
-Menganalisis pola dan tren iklim Kota Manado berdasarkan data historis.
+## Tujuan
+** - Menganalisis pola dan tren iklim Kota Manado berdasarkan data historis. **
 
 Mengidentifikasi kestabilan dan variasi musiman parameter iklim.
 

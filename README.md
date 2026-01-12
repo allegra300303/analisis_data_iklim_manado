@@ -51,6 +51,6 @@ Analisis dilakukan menggunakan 9 Tahap Big Data, yaitu:
 Analisis menunjukkan bahwa iklim Kota Manado cenderung stabil dalam periode 10 tahun pengamatan. Namun, durasi data yang terbatas dan tidak adanya faktor eksternal seperti urbanisasi dan perubahan global menjadi keterbatasan penelitian ini.
 
 ## Author
-Allegra Flavia Felita
-Program Studi Sistem Informasi
+Allegra Flavia Felita -
+Program Studi Sistem Informasi -
 Universitas Tarumanagara
